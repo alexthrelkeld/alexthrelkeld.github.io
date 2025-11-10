@@ -22,14 +22,14 @@ I am the Mathematics, Statistics, and Computational Sciences Librarian at Stanfo
 
 I have recently gotten married and changed my surname. My old surname was "Manchester."
 
-I don't claim to be a coder, but I do occasionally write scripts for myself, and upload them to [my GitHub](https://github.com/alexthrelkeld){:target="_blank"} in case they are helpful to other librarians hoping to make more use of computer tools.
+I don't claim to be a coder, but I do occasionally write scripts for myself, and upload them to [my GitHub](https://github.com/alexthrelkeld) in case they are helpful to other librarians hoping to make more use of computer tools.
 
 I graduated with a PhD in Mathematics from Rice University in May 2024. My advisor was Prof. Shelly Harvey, and my mathematical interests are in satellite constructions, knot concordance, and 4-dimensional manifolds, especially in the topological setting. I received a B.S. in Mathematics with Departmental Honors from the University of Chicago in 2019.
 
 Math research papers:
 
-- ``New examples of topologically slice links'' on the [arXiv](https://arxiv.org/abs/2306.11594){:target="_blank"} and published in the [Journal of Knot Theory and Its Ramifications](https://doi.org/10.1142/S0218216525500439){:target="_blank"}
-- ``Action of the Mazur patter up to topological concordance'' on the [arXiv](https://arxiv.org/abs/2212.13640){:target="_blank"} and published in [Algebraic & Geometric Topology](https://doi.org/10.2140/agt.2025.25.2115){:target="_blank"}
+- ``New examples of topologically slice links'' on the [arXiv](https://arxiv.org/abs/2306.11594) and published in the [Journal of Knot Theory and Its Ramifications](https://doi.org/10.1142/S0218216525500439)
+- ``Action of the Mazur patter up to topological concordance'' on the [arXiv](https://arxiv.org/abs/2212.13640) and published in [Algebraic & Geometric Topology](https://doi.org/10.2140/agt.2025.25.2115)
 
 I have also worked as the Mathematics Collection Development assistant at Rice's Fondren Library. I assisted with the selection and acquisition of new books, as well as the weeding of of damaged and outdated books in the collection. Additionally, I contributed to our online research guides, particularly the guides on math and AI, and focusing on the history of math and the relationship between AI and accessibility. I also helped to run events introducing students to the university's Overleaf subscription.
 
