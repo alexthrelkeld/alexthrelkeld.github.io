@@ -5,13 +5,6 @@
 layout: home
 ---
 
-<style>
-  figure {
-    float: left;
-    margin: 0 50px 50px 0;
-  }
-</style>
-
 <figure>
   <img src="assets/Headshot.jpg" alt="headshot" width="250">
   <figcaption>Photo by Jeff Fitlow</figcaption>
