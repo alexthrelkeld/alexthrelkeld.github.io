@@ -29,7 +29,7 @@ I have also worked as the Mathematics Collection Development assistant at Rice's
 ---
 <br>
 
-I co-moderated the Mathematicsl Roundtable at the 2025 Special Libraries Association Conference in Pittsburgh, Pennsylvania. And, I have also attend to the following conferences as a librarian:
+I co-moderated the Mathematics Roundtable at the 2025 Special Libraries Association Conference in Pittsburgh, Pennsylvania. And, I have also attend to the following conferences as a librarian:
 
 - Joint Mathematics Meeting; Seattle, Washington (2025)
 - Special Libraries Association Conference; Kingston, Rhode Island (2024)
