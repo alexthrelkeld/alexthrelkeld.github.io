@@ -20,7 +20,7 @@ layout: home
 <p>
 I am the Mathematics, Statistics, and Computational Sciences Librarian at Stanford's Robin Li and Melissa Ma Science Library, located in the Sapp Center for Science Teaching and Learning, aka ``Old Chem''. In this job, I order print and electronic materials and manage the university's subcriptions in my subject areas, I am the liason between Stanford University Libraries and the Mathematics and Statistics Departments, and I teach <a href="https://carpentries.org">Carpentries</a> (and Carpentries-style) workshops on Python, R, and LaTeX.
 
-I have recently gotten married and changed my surname. My old surname was "Manchester."
+I have recently gotten married and changed my surname. My old surname was ``Manchester''.
 
 I don't claim to be a coder, but I do occasionally write scripts for myself, and upload them to [my GitHub](https://github.com/alexthrelkeld) in case they are helpful to other librarians hoping to make more use of computer tools.
 
