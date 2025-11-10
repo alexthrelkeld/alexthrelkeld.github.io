@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alex Manchester (they/them)
+title: Alex Threlkeld (they/them, née Manchester)
 author: ----
 email: alexmanchester@stanford.edu
 description: Mathematics, Statistics, and Computational Sciences Librarian at Stanford University
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://amlaenxc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  amlaenxc
+url: "https://alexthrelkeld.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  alexthrelkeld
 
 # Build settings
 theme: minima
